@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jlink" name="app">
+    <output-path>$PROJECT_DIR$/out/artifacts/app</output-path>
+    <root id="root">
+      <element id="module-output" name="workshop-javafx-jdbc" />
+    </root>
+  </artifact>
+</component>
